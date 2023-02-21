@@ -1,5 +1,3 @@
- (22 sloc)  363 Bytes
-
 /*
  * File: 101-natural.c
  * Auth: vincent kip
