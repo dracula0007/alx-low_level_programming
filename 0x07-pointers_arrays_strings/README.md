@@ -17,4 +17,5 @@
 •The line of life is a ragged diagonal between duty and desire Write a function that prints the sum of the two diagonals of a square matrix of integers.
 
 •Double pointer, double fun Write a function that sets the value of a pointer to a char.
+
 •lMy primary goal of hacking was the intellectual curiosity, the seduction of adventure Create a file that contains the password for the crackme2 executable.
